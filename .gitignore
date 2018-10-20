@@ -12,6 +12,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+rails_best_practices_output.html
 
 # Ignore uploaded files in development
 /storage/*
